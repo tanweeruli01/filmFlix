@@ -1,0 +1,3 @@
+WARNING:root:On Mon Feb  5 12:20:22 2024, in __main__ file, user entered sci-fi as genre
+WARNING:root:On Mon Feb  5 12:20:42 2024, in __main__ file, user entered 40 as filmID
+WARNING:root:On Mon Feb  5 12:21:20 2024, in searchFilms file, user entered 45 as filmID
